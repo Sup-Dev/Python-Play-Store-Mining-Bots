@@ -1,0 +1,13 @@
+com.morriscooke.explaineverything
+net.redjumper.bookcreator
+com.mojang.minecraftpe
+com.tellagami.Tellagami
+com.wevideo.mobile.android
+com.adsk.sketchbookhd
+com.brakefield.idfree
+com.iudesk.android.photo.editor
+com.magisto
+com.dama.papercamera
+com.animoto.android.videoslideshow
+com.shinycore.picsaypro
+com.cardinalblue.piccollage.google
